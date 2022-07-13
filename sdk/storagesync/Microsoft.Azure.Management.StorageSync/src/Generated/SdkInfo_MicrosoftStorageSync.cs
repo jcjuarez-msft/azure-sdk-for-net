@@ -19,31 +19,30 @@ namespace Microsoft.Azure.Management.StorageSync
           {
               return new Tuple<string, string, string>[]
               {
-                new Tuple<string, string, string>("StorageSync", "CloudEndpoints", "2020-09-01"),
-                new Tuple<string, string, string>("StorageSync", "LocationOperationStatus", "2020-09-01"),
-                new Tuple<string, string, string>("StorageSync", "OperationStatus", "2020-09-01"),
-                new Tuple<string, string, string>("StorageSync", "Operations", "2020-09-01"),
-                new Tuple<string, string, string>("StorageSync", "PrivateEndpointConnections", "2020-09-01"),
-                new Tuple<string, string, string>("StorageSync", "PrivateLinkResources", "2020-09-01"),
-                new Tuple<string, string, string>("StorageSync", "RegisteredServers", "2020-09-01"),
-                new Tuple<string, string, string>("StorageSync", "ServerEndpoints", "2020-09-01"),
-                new Tuple<string, string, string>("StorageSync", "StorageSyncServices", "2020-09-01"),
-                new Tuple<string, string, string>("StorageSync", "SyncGroups", "2020-09-01"),
-                new Tuple<string, string, string>("StorageSync", "Workflows", "2020-09-01"),
+                new Tuple<string, string, string>("StorageSync", "CloudEndpoints", "2022-06-01"),
+                new Tuple<string, string, string>("StorageSync", "LocationOperationStatus", "2022-06-01"),
+                new Tuple<string, string, string>("StorageSync", "OperationStatus", "2022-06-01"),
+                new Tuple<string, string, string>("StorageSync", "Operations", "2022-06-01"),
+                new Tuple<string, string, string>("StorageSync", "PrivateEndpointConnections", "2022-06-01"),
+                new Tuple<string, string, string>("StorageSync", "PrivateLinkResources", "2022-06-01"),
+                new Tuple<string, string, string>("StorageSync", "RegisteredServers", "2022-06-01"),
+                new Tuple<string, string, string>("StorageSync", "ServerEndpoints", "2022-06-01"),
+                new Tuple<string, string, string>("StorageSync", "StorageSyncServices", "2022-06-01"),
+                new Tuple<string, string, string>("StorageSync", "SyncGroups", "2022-06-01"),
+                new Tuple<string, string, string>("StorageSync", "Workflows", "2022-06-01"),
               }.AsEnumerable();
           }
       }
       // BEGIN: Code Generation Metadata Section
       public static readonly String AutoRestVersion = "2.0.4421";
       public static readonly String AutoRestBootStrapperVersion = "autorest@2.0.4413";
-      public static readonly String AutoRestCmdExecuted = "cmd.exe /c autorest.cmd https://github.com/Azure/azure-rest-api-specs/blob/main/specification/storagesync/resource-manager/readme.md --csharp --version=2.0.4421 --reflect-api-versions --csharp-sdks-folder=D:\\github\\anpint\\azure-sdk-for-net\\sdk";
-      public static readonly String GithubForkName = "Azure";
-      public static readonly String GithubBranchName = "main";
-      public static readonly String GithubCommidId = "56cf5d41fd670c6c13a13ba761fb93a26b374c59";
+      public static readonly String AutoRestCmdExecuted = "cmd.exe /c autorest.cmd https://github.com/jcjuarez-msft/azure-rest-api-specs/blob/juanj-storagesync-20220601-lowdiskmodenotification/specification/storagesync/resource-manager/readme.md --csharp --version=2.0.4421 --reflect-api-versions --csharp-sdks-folder=C:\\csharpsdk\\azure-sdk-for-net\\sdk";
+      public static readonly String GithubForkName = "jcjuarez-msft";
+      public static readonly String GithubBranchName = "juanj-storagesync-20220601-lowdiskmodenotification";
+      public static readonly String GithubCommidId = "f6151ed4ac5bb0c9b6bf4e8864785323c49bbee6";
       public static readonly String CodeGenerationErrors = "";
       public static readonly String GithubRepoName = "azure-rest-api-specs";
       // END: Code Generation Metadata Section
   }
 }
-
 
