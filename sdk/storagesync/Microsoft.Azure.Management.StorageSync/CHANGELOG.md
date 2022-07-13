@@ -1,5 +1,10 @@
 ## Microsoft.Azure.Management.StorageSync release notes
 
+### Changes in 2022-06-01
+
+- Additional managed identity properties support
+- Additional cloud tiering low disk mode status support
+
 ### Changes in 2020-03-01
 
 - Support private links for Azure File Sync
