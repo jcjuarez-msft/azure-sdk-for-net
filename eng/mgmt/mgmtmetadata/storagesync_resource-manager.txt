@@ -3,17 +3,13 @@ AutoRest installed successfully.
 Commencing code generation
 Generating CSharp code
 Executing AutoRest command
-cmd.exe /c autorest.cmd https://github.com/Azure/azure-rest-api-specs/blob/main/specification/storagesync/resource-manager/readme.md --csharp --version=2.0.4421 --reflect-api-versions --csharp-sdks-folder=D:\github\anpint\azure-sdk-for-net\sdk
-2022-03-01 18:54:17 UTC
+cmd.exe /c autorest.cmd https://github.com/jcjuarez-msft/azure-rest-api-specs/blob/juanj-storagesync-20220601-lowdiskmodenotification/specification/storagesync/resource-manager/readme.md --csharp --version=2.0.4421 --reflect-api-versions --csharp-sdks-folder=C:\csharpsdk\azure-sdk-for-net\sdk
+Autorest CSharp Version: 2.3.82
+2022-07-13 18:10:42 UTC
 Azure-rest-api-specs repository information
-GitHub fork: Azure
-Branch:      main
-Commit:      56cf5d41fd670c6c13a13ba761fb93a26b374c59
+GitHub fork: jcjuarez-msft
+Branch:      juanj-storagesync-20220601-lowdiskmodenotification
+Commit:      f6151ed4ac5bb0c9b6bf4e8864785323c49bbee6
 AutoRest information
 Requested version: 2.0.4421
 Bootstrapper version:    autorest@2.0.4413
-npm notice 
-npm notice New minor version of npm available! 8.3.0 -> 8.5.2
-npm notice Changelog: <https://github.com/npm/cli/releases/tag/v8.5.2>
-npm notice Run `npm install -g npm@8.5.2` to update!
-npm notice
