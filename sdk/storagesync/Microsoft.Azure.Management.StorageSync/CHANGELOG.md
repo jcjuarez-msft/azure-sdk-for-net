@@ -2,8 +2,7 @@
 
 ### Changes in 2022-06-01
 
-- Additional managed identity properties support
-- Additional cloud tiering low disk mode status support
+- Support for Low Disk Mode state property.
 
 ### Changes in 2020-03-01
 
