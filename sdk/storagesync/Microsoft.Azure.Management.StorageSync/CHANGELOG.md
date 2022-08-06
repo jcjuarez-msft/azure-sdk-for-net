@@ -1,5 +1,9 @@
 ## Microsoft.Azure.Management.StorageSync release notes
 
+### Changes in 2022-06-01
+
+- Support for Low Disk Mode state property.
+
 ### Changes in 2020-03-01
 
 - Support private links for Azure File Sync
